@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 
 *.zip
+
+# FEC data
+fec_data/indiv/indiv??.txt

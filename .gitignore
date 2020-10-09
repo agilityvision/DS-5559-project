@@ -129,4 +129,3 @@ dmypy.json
 .pyre/
 
 *.zip
-fec_data/
